@@ -1,0 +1,8 @@
+1. npm install web3
+2. npm install solc@0.8.9
+3. npm init
+4. npm install ganache-cli mocha solc@0.8.9 fs-extra web3
+5. npm install @truffle/hdwallet-provider
+6. npm install next@12 react react-dom
+7. npm install --save semantic-ui-react
+8. npm install --save semantic-ui-css
