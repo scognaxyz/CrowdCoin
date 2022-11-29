@@ -21,4 +21,5 @@ All dependencies needed to execute the released code are listed below:
  
 <h3> Launch </h3>
 
+Follow the command terminal step to download dependencies
 Run server localhost:3000 with "npm run dev" command
